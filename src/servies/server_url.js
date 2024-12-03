@@ -1,0 +1,1 @@
+export const SERVER_URL = "https://mp-server-sm86.onrender.com"
